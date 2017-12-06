@@ -76,7 +76,7 @@ solo quello che hai bisogno di vedere
         <text name="task_StumpCutting"  text="Taglio tronchi" />
         <text name="task_WoodCrushing"  text="Cippatura" />
         <text name="task_TreePlanting"  text="Pianta Alberi" />
-        <text name="task_Weeding"       text="Diserbo" />
+        <text name="task_Weeding"       text="Sarchiatura" />
         <text name="task_LivestockTransport" text="Trasporto di bestiame" />
 
         <text name="config_error"       text="'Glance'  ha un problema quando cerca di caricare il file Glance_Config.XML.
